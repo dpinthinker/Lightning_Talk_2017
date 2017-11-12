@@ -26,11 +26,11 @@ I will try to use ipython notebook to help the beginners like me to start quickl
 
 ### References
 
-#####Books
+##### Books
 
 http://neuralnetworksanddeeplearning.com/
 
-#####Articles
+##### Articles
 
 [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 
