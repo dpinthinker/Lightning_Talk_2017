@@ -16,7 +16,7 @@ I will try to use ipython notebook to help the beginners like me to start quickl
 ##### Text Classification with Low Level API of TensorFlow
 
 * Binary-Classification with CNN (Movie Reviews)
-* Multi-Classification with CNN and RNN (English Consumer Finance Complains)
+* Multi-Classification with CNN  (Consumer Finance Complains)
 * Binary-Classication with CNN (Chinese Book Review)
 
 ##### Text Classification with Keras, High Level API of TensorFlow
