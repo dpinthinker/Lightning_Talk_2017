@@ -42,7 +42,7 @@ https://github.com/dennybritz/cnn-text-classification-tf
 
 https://github.com/hkhatod/multi-class-text-classification-cnn-rnn
 
-https://github.com/HarryHa/cnn-text-classification-tf（Chinese Text Classification）
+https://github.com/HarryHa/cnn-text-classification-tf (Chinese Text Classification)
 
 ###### Keras
 
