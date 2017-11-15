@@ -40,7 +40,11 @@ http://neuralnetworksanddeeplearning.com/
 
 https://github.com/dennybritz/cnn-text-classification-tf
 
+https://github.com/jiegzhan/multi-class-text-classification-cnn
+
 https://github.com/hkhatod/multi-class-text-classification-cnn-rnn
+
+https://github.com/indiejoseph/cnn-text-classification-tf-chinese
 
 https://github.com/HarryHa/cnn-text-classification-tf (Chinese Text Classification)
 
