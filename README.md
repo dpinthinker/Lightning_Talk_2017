@@ -3,7 +3,7 @@ This is the demo notebook for Lightning Talk *Text Classification With TensorFlo
 
 This talk wil talk about Text Classification roughly, which referenced and was inspired by [WildML](http://www.wildml.com/), which is a very very good AI Tech blog. 
 
-I will try to use ipython notebook to help the beginners like me to start quickly.
+I will try to use Jupyter notebook to help the beginners like me to start quickly.
 
 ### Contents
 
